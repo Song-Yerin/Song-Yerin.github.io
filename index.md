@@ -3,6 +3,4 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
-
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+Unity와 Unreal Engine을 활용한 프로젝트 경험이 있으며, 게임 기획부터 구현까지 전반에 참여한 경험이 있습니다. 사용자 경험을 고려한 시스템 구성에 관심이 많고, 협업을 통해 완성도 높은 게임을 만드는 것을 좋아합니다. 꾸준히 학습하고, 협업을 통해 함께 성장하는 개발자를 지향합니다. 
